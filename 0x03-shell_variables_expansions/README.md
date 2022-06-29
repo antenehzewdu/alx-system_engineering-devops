@@ -1,1 +1,1 @@
-a script that creates an alias that named ls.
+a script that creates an alias that named ls
